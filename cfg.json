@@ -1,0 +1,18 @@
+{
+    "invite_url": "https://discord.com/api/v9/invites/%s",
+    "guild_search_query_parameters":  "?with_counts=true&with_expiration=true",
+    "get_term_conditions_url": "https://discord.com/api/v9/guilds/%s/member-verification?with_guild=false",
+    "term_conditions_url": "https://discord.com/api/v9/guilds/%s/requests/@me",
+
+
+    "requests" : {
+        "term_and_conditions": true,
+        "reaction": true
+    },
+    "max_account": -1,
+    "ask_frequency": 1,
+    "ask_me": "true",
+    "invite_link": "",
+    "emoji_link": "",
+    "message_link": "",
+}
